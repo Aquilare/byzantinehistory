@@ -1,2 +1,2 @@
-# Byzantine History
-Here I plan to document what I know or have learned about the Byzantine empire, my current historical obsession
+# My Historical Interests
+Here lies a list of things with histories that I find interesting:
