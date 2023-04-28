@@ -7,6 +7,7 @@ Here lies a list of things with histories that I find interesting:
 - [Spain](https://en.wikipedia.org/wiki/History_of_Spain#)
 - [Medieval Italy](https://en.wikipedia.org/wiki/Italy_in_the_Middle_Ages)
 - [The Italian City-States](https://en.wikipedia.org/wiki/Italian_city-states)
+- [The Holy Roman Empire](https://en.wikipedia.org/wiki/Holy_Roman_Empire)
 - [Achaemenid Persia](https://simple.wikipedia.org/wiki/Achaemenid_Empire)
 - [Parthia](http://www.annourbis.com/ancient-civilizations/Parthia/index.html)
 - [Sassanid Persia](https://simple.wikipedia.org/wiki/Sassanid_Empire)
